@@ -1,0 +1,37 @@
+#liennav:hover{
+    background-color: cyan;
+    margin: 0;
+    padding: 0;
+    border-radius: 80vw;
+    color: white;
+}
+#liennav:hover a{
+    color: white;
+}
+#vscode{
+    width: 20%;
+    height: 20%;
+    margin-top: 4%;
+}
+#figma{
+    width: 20%;
+    height: 20%;
+    margin-top: 4%;
+}
+#ps{
+    width: 40%;
+    height: auto;
+    margin-top: 4%;
+}
+footer{
+    border-top: double cyan 3px;
+    border-radius: 20%;
+    background-color: white;
+}
+footer div a{
+    width: 50%;
+
+}
+footer img{
+    width: 5vw;
+}
